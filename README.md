@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I am currently a Software Engineering student at California Polytechnic State University - San Luis Obispo.<br>- 😄 I like to build mobile and web applications.<br>- 🌱 I am open to Software Engineer, Quality Assurance, Data Analytics, and Operations Roles.<br>- 📫 victor.work0809@gmail.com | (657)789-0016<br>- ⚡ Fun fact: I like to play sports, lift weights, and go on coffee runs.
+- 🔭 I am currently a Software Engineering student at California Polytechnic State University - San Luis Obispo.<br> - 😄 I like to build mobile and web applications.<br> - 🌱 I am open to Software Engineer, Quality Assurance, Data Analytics, and Operations Roles.<br>- 📫 victor.work0809@gmail.com | (657)789-0016<br> - ⚡ Fun fact: I like to play sports, lift weights, and go on coffee runs.
 
 
 ## 🌐 Socials:
